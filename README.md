@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development , AI & ML Engineering , Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [Currently Developing the Portfolio](Currently Developing the Portfolio)
+- 👨‍💻 All of my projects are available at [Currently Developing the Portfolio]
 
 - 💬 Ask me about **Frontend , Programming Language (Java , Python)**
 
