@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ilmaan Ahamed</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Dev+%7C+AI+%26+ML+Enthusiast" />
-</p>
+<h3 align="center"> “Curious mind, builder mindset, team-driven approach.”</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilmaan-ahamed&label=Profile%20views&color=0e75b6&style=flat" alt="ilmaan-ahamed" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ilmaan-ahamed" alt="ilmaan-ahamed" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Dev+%7C+AI+%26+ML+Enthusiast" />
 </p>
+
+
+
 
 ---
 
@@ -32,9 +31,10 @@
 
 ## 🌐 Connect with me:
 
-<p align="left">
-  <a href="https://linkedin.com/in/ilmaan-ahamed" target="_blank">
+<p align="center">
+  <a href="www.linkedin.com/in/ilmaan-ahamed08" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+ 
   </a>
 </p>
 
@@ -44,11 +44,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,kotlin,html,css,react,nextjs,vue,tailwind,nodejs,express,django,flask,spring,reactnative,flutter,mysql,postgres,mongodb,redis,aws,docker,jenkins,kubernetes,tensorflow,pytorch,sklearn,pandas,numpy,opencv,vscode,git,github,figma,postman,vim" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,kotlin,html,css,react,nextjs,vue,tailwind,nodejs,express,django,flask,spring,flutter,mysql,postgres,mongodb,redis,aws,docker,jenkins,kubernetes,tensorflow,pytorch,sklearn,pandas,numpy,opencv,vscode,git,github,figma,postman,vim,googlecolab" />
   </a>
 </p>
 
 ---
+
+![snake animation](https://github.com/<seu Ilmaan-Ahamed>/<seu Ilmaan-Ahamed>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 📊 GitHub Stats
 
