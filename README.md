@@ -32,10 +32,19 @@
 ## 🌐 Connect with me:
 
 <p align="center">
-  <a href="www.linkedin.com/in/ilmaan-ahamed08" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
- 
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ilmaan-ahamed08" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
+
+  <br>
+
+  <!-- Gmail -->
+  <a href="mailto:ilmaanahamed456@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" alt="Email" />
+  </a>
+
 </p>
 
 ---
@@ -50,18 +59,3 @@
 
 ---
 
-![snake animation](https://github.com/<seu Ilmaan-Ahamed>/<seu Ilmaan-Ahamed>/blob/output/github-contribution-grid-snake2.svg)
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilmaan-ahamed&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilmaan-ahamed&show_icons=true&locale=en" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmaan-ahamed" />
-</p>
