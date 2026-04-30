@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development, AI & ML Engineering, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at **Currently Developing the Portfolio**
+- 👨‍💻 All of my projects are available in ** My Portfolio that is development mode**
 
-- 💬 Ask me about **Frontend, Programming Language (Java, Python)**
+- 💬 Ask me about **Frontend, Programming Language's (Java, Python) , DSA , OOP **
 
 - 📫 How to reach me **ilmaanahamed456@gmail.com**
 
