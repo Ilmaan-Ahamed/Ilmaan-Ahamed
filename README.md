@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development, AI & ML Engineering, Cloud Computing**
 
-- 👨‍💻 All of my projects are available in **My Portfolio that is development mode**
+- 👨‍💻 All of my projects are available in **My Portfolio that's in development mode**
 
 - 💬 Ask me about **Frontend, Programming Language's (Java, Python) , DSA , OOP**
 
