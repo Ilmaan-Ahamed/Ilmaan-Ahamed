@@ -49,13 +49,53 @@
 
 ---
 
-## 🚀 Languages & Tools
-
-<p align="center">
+## 🚀 Tech Stack & Skills
+ 
+## 💻 Full Stack Development
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,kotlin,html,css,react,nextjs,vue,tailwind,nodejs,express,django,flask,spring,flutter,mysql,postgres,mongodb,redis,aws,docker,jenkins,kubernetes,tensorflow,pytorch,sklearn,pandas,numpy,opencv,vscode,git,github,figma,postman,vim,googlecolab" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,tailwind,nodejs,express,django,flask,spring,php,flutter,kotlin,mysql,postgres,mongodb,redis" />
   </a>
 </p>
 
+---
+
+## ☁️ Cloud & DevOps
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes" />
+  </a>
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,anaconda,fastapi,jupyter" />
+  </a>
+</p>
+
+<p>
+ • Claude • Hugging Face • LangChain • OpenAI API • TensorFlow • PyTorch • Scikit-Learn • Computer Vision • Deep Learning • NLP • GEN_AI  
+</p>
+
+---
+
+## 🧠 Programming Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,kotlin" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vim,googlecolab" />
+  </a>
+</p>
 ---
 
