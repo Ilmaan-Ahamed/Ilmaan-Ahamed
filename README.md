@@ -49,7 +49,8 @@
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🚀 Tech Stack & Skills [Learned & Learning]
+
  
 ## 💻 Full Stack Development
 <p>
