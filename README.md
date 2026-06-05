@@ -55,7 +55,7 @@
 ## 💻 Full Stack Development
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,tailwind,nodejs,express,django,flask,spring,php,flutter,kotlin,mysql,postgres,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=sass,html,css,javascript,typescript,react,nextjs,vue,tailwind,nodejs,express,django,flask,spring,php,flutter,kotlin,mysql,postgres,mongodb,redis,supabase" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@
 </p>
 
 <p>
- • Claude • Hugging Face • LangChain • OpenAI API • TensorFlow • PyTorch • Scikit-Learn • Computer Vision • Deep Learning • NLP • GEN_AI  
+ • Claude • Hugging Face • LangChain • OpenAI API • Computer Vision • Deep Learning • NLP • GEN_AI  
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ## 🛠️ Tools & Platforms
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vim,googlecolab" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,figma,postman,vim,googlecolab" />
   </a>
 </p>
 ---
