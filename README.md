@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available in **My Portfolio that's in development mode**
 
-- 💬 Ask me about **Frontend Development , Programming Language's (Java, Python) , DSA , OOP , Data Analytics**
+- 💬 Ask me about **Full Stack Development , AI & ML , Programming Language's (Java, Python) , DSA , OOP , Data Analytics, API's**
 
 - 📫 How to reach me **ilmaanahamed456@gmail.com**
 
