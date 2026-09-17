@@ -86,7 +86,7 @@
 ## 🧠 Programming Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,kotlin" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go" />
   </a>
 </p>
 
